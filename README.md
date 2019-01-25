@@ -1,6 +1,6 @@
 # Supplementary Files
 
-Supplementary File 1:
+Supplementary File 1:\n
   Protein Datasets Used in the TFG: P. infestans Secretome from Meijer et al 2014 and S. lycopersicum interactome
   The file includes 3 excel sheets:
     Sheet 2: Secretome of Phytophthora infestans from Meijer et al 2014: protein sequences
