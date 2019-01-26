@@ -26,7 +26,7 @@ Figure S2: Best 30 predicted interactions for the S. lycopersicum – P. infesta
 
 Figure S3: Dyer (A) and Zhang (B) scores for STRING interactome and for negative interactome protein pairs using domains and motifs.
 
-
+4BestInteractomes: File .cys (Cytoscape software). It contains the 4 Solanum lycopersicum - Phytophthora infestans best sets of interactions over the interactome of S. lycopersicum. Source of Figures S1 and S2.
 
 
 
