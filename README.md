@@ -19,6 +19,14 @@ Supplementary File 3:
   Sheet 2: contains the GO terms enriched for each of the 4 result set as well as the inclusion or not of these GO terms in the lists of Infection related GO terms
   Sheet 3: contains the list of GO terms and their functions
   Sheet 4: list result of adding all children GO terms of the previous list
+  
+Figure S1: Best 30 predicted interactions for the S. lycopersicum – P. infestans pathosystem using only domains in the pipeline. Left: D set (not including cytoplasm). Right: DC set (including cytoplasm). Pathogen effectors are plotted as red triangles, host targets as black circles and the rest of host proteins as blue circles.
+
+Figure S2: Best 30 predicted interactions for the S. lycopersicum – P. infestans pathosystem using also motifs in the pipeline. Left: DM set (not including cytoplasm). Right: DMC set (including cytoplasm). Pathogen effectors are plotted as red triangles, host targets as black circles and the rest of host proteins as blue circles.
+
+Figure S3: Dyer (A) and Zhang (B) scores for STRING interactome and for negative interactome protein pairs using domains and motifs.
+
+
 
 
 
